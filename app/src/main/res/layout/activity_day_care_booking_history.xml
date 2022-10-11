@@ -90,6 +90,7 @@
         app:layout_constraintHorizontal_bias="0.714"
         app:layout_constraintStart_toEndOf="@+id/textView9" />
 
+
     <TextView
         android:id="@+id/dogpack"
         android:layout_width="99dp"
